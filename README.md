@@ -1,0 +1,1 @@
+# PyQt-speed-calculator
